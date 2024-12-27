@@ -12,4 +12,5 @@
 > <br>
 > <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>
 > <br><br>
-> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chakanag&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=chakanag&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="chakanag's github stats" /></a> | <a href="https://github.com/chakanag/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chakanag&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
