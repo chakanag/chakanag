@@ -28,4 +28,4 @@
 ><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/></a>
 ><br>
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=chakanag&theme=blue-green
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chakanag&theme=blue-green"/></a>
