@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=0:f7cac9,100:92a8d1&height=160&section=header&text=Hi,%20I'm%20chakanag!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=140&section=footer&text=Hi,%20I'm%20chakanag!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
 <br/><br/><br/>
 > # chakanag - Web Developer
 > Hi, there! I’m chakanag
